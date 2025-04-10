@@ -20,12 +20,12 @@
         };
 
         toggle_lower_layer {
-            bindings = <&tog 2>;
+            bindings = <&tog 1>;
             key-positions = <52 36>;
         };
 
         toggle_higher_layer {
-            bindings = <&tog 4>;
+            bindings = <&tog 2>;
             key-positions = <55 49>;
         };
     };
